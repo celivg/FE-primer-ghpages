@@ -1,0 +1,42 @@
+body{
+    background-color: #F7F7FB;
+    font-family: "Montserrat", sans-serif;
+}
+H2{
+    color: #6376C4;
+}
+nav a{
+    text-decoration: none;
+    color: #6376C4;
+}
+nav ul{
+    display: flex;
+    gap: 40px;
+    list-style:none;
+}
+header{
+    display: flex;
+}
+header div{
+    margin-top: 100px;
+}
+.sobre-mi{
+    width: 70%;
+    margin-left: 40px;
+}
+.educacion{
+    width: 70%;
+    margin-left: 40px;
+}
+.experiencia{
+    width: 70%;
+    margin-left: 40px;
+}
+.habilidades{
+    width: 70%;
+    margin-left: 40px;
+}
+.contacto{
+    width: 70%;
+    margin-left: 40px;
+}
